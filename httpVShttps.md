@@ -37,7 +37,7 @@ HTTPS provides:
 ## Conclusion
 Use HTTPS whenever possible because it keeps your information safe and makes the website more secure.
 
-
+Here is complete architicture:
 
 
 ![alt text](./images/httpvshttps.png)
